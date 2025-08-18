@@ -15,7 +15,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="h-screen" data-theme="light">
+      <div className="h-screen">
         <Cards />
       </div>
     </div>
